@@ -117,29 +117,13 @@ def hero():
         y=input("Do you want to play : Press 1 and 0 to exit \n")
         if(y==0):
             y=False
-        if (len(numbers)>19):
+        
  
   
 
 
 
-0, microsecond= 0)
 
-if (now>First and now<Firstend):
-            period=220
-            hero()
-    elif(now>Second and now<Secondend):
-            period=280
-            hero()
-    elif(now>Third and now<Thirdend):
-            period=360
-            hero()
-    elif(now>Final and now<Finalend):
-            period=400
-            hero()
-    elif(now>FFinal and now<FFinalend):
-            period=460
-            hero()
     
 
 
